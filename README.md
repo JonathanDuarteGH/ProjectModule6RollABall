@@ -20,7 +20,7 @@ git clone https://github.com/JonathanDuarteGH/ProjectModule6RollABall.git
 
 ## How to run the game?
 
-* Please click 'DOWNLOAD' from the google drive cloud [here](https://drive.google.com/drive/folders/1itKWx8SmzVi-XquQG2y2RlELFTFN-oji?usp=sharing)
+* Please click 'DOWNLOAD' from the google drive cloud [here](https://drive.google.com/file/d/11bePv0tp8E9Qmt6WCuZqzGFT8qeKtQOS/view?usp=sharing)
 
 ## Built With
 
